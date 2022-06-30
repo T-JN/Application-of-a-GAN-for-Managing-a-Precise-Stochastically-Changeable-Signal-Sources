@@ -1,4 +1,4 @@
-# Use-for-a-Generative-Adversarial-Network-for-Managed-a-Stochastically-Movable-Precise-Time-Signal-So
+# APPLICATION OF A GENERATIVE-ADVERSARIAL NETWORK FOR MANAGING A PRECISE STOCHASTICALLY CHANGEABLE SIGNAL SOURCES 
 https://elibrary.ru/item.asp?id=47395538
 Printed by http://bulletin.am/wp-content/uploads/2021/11/Binder1.pdf   pp.49-58
 
